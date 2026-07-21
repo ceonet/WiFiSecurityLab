@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/banner.png" alt="WiFiSecurityLab Banner" width="100%">
+  <img src="screenshots/banner.png" alt="WiFiSecurityLab" width="100%">
 </p>
 
 <h1 align="center">WiFiSecurityLab</h1>
@@ -49,41 +49,11 @@ WiFiSecurityLab is a Python-based toolkit for studying wireless security concept
 
 ## Installation
 
-Clone the repository:
-
 ```bash
 git clone https://github.com/ceonet/WiFiSecurityLab.git
 cd WiFiSecurityLab
-```
-
-Install dependencies:
-
-```bash
 pip install -r requirements.txt
 ```
-
----
-
-## Project Structure
-
-```text
-WiFiSecurityLab/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── requirements.txt
-├── X-ForceWifi.py
-└── screenshots/
-    └── banner.png
-```
-
----
-
-## Preview
-
-<p align="center">
-<img src="screenshots/banner.png" width="100%">
-</p>
 
 ---
 
@@ -103,7 +73,7 @@ This project is licensed under the MIT License.
 
 ## Disclaimer
 
-This project is provided solely for educational purposes and authorized wireless security assessments. Users are responsible for complying with all applicable laws and regulations. Only use this software on systems and networks you own or have explicit permission to evaluate.
+This project is intended solely for educational purposes and authorized wireless security assessments. Only use this software on systems and networks you own or have explicit permission to evaluate.
 
 ---
 
