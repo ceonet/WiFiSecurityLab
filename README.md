@@ -24,7 +24,7 @@ Developed by **GhostX**
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WiFiSecurityLab.git
+git clone https://github.com/ceonet/WiFiSecurityLab.git
 cd WiFiSecurityLab
 pip install -r requirements.txt
 ```
